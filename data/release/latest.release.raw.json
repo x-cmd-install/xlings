@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 40344620,
       "digest": "sha256:8c973b97960e29e5eb4e098e8cfdb004348016bdf76f137ac5f14b7a84b08bcd",
-      "download_count": 129,
+      "download_count": 138,
       "created_at": "2026-09-06T05:56:30Z",
       "updated_at": "2026-09-06T05:56:32Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-aarch64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 41027764,
       "digest": "sha256:f002160f9783e5fcae818273b98dd4a79be40ec4c1564082441779d0f9f59835",
-      "download_count": 762,
+      "download_count": 889,
       "created_at": "2026-09-06T05:56:30Z",
       "updated_at": "2026-09-06T05:56:31Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:3ae68af070adf593969b161beb5c339de78b6196ed835fe40e2e2cbd73a4302a",
-      "download_count": 122,
+      "download_count": 130,
       "created_at": "2026-09-06T05:56:30Z",
       "updated_at": "2026-09-06T05:56:30Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-x86_64.tar.gz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7465922,
       "digest": "sha256:5d6299d4d6f708f1dd3745f1184ba2a39496b28a6c6afcb7e80b03b376c406a2",
-      "download_count": 232,
+      "download_count": 267,
       "created_at": "2026-09-06T05:56:30Z",
       "updated_at": "2026-09-06T05:56:30Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-macosx-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13232746,
       "digest": "sha256:762555e0ea0206cd35bf354ef8bb2f1f197d0d4ffdc98e39852550171d06e55f",
-      "download_count": 512,
+      "download_count": 585,
       "created_at": "2026-09-06T05:56:30Z",
       "updated_at": "2026-09-06T05:56:31Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-windows-x86_64.zip"
