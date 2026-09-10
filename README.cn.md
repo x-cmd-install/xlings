@@ -4,7 +4,7 @@
 
 Universal package infrastructure with OS-like SubOS isolation - Multi-version · Rootless · Decentralized Index · Agent-ready.
 
-![xlings](https://repo.x-cmd.io/xlings.svg)
+![xlings](https://repo.x-cmd.io/xlings.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,19 @@ x install xlings
 - **最新版本**: `v2026.9.5.1` (2026-09-06)
 - **最近提交**: 2026-09-06
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-09-06T05:56:29Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [xlings-2026.9.5.1-linux-aarch64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-aarch64.tar.gz) | 38.5 MiB | `native/linux/arm64` |
+| [xlings-2026.9.5.1-linux-aarch64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-aarch64.tar.gz.sha256) | 105 B | `native/linux/arm64` |
+| [xlings-2026.9.5.1-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-x86_64.tar.gz) | 39.1 MiB | `native/linux/x64` |
+| [xlings-2026.9.5.1-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-x86_64.tar.gz.sha256) | 104 B | `native/linux/x64` |
+| [xlings-2026.9.5.1-macosx-arm64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-macosx-arm64.tar.gz) | 7.1 MiB | `native/darwin/arm64` |
+| [xlings-2026.9.5.1-macosx-arm64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-macosx-arm64.tar.gz.sha256) | 104 B | `native/darwin/arm64` |
+| [xlings-2026.9.5.1-windows-x86_64.zip](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-windows-x86_64.zip) | 12.6 MiB | `native/win/x64` |
+| [xlings-2026.9.5.1-windows-x86_64.zip.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-windows-x86_64.zip.sha256) | 103 B | `native/win/x64` |
 
 ## 流行度
 
@@ -62,4 +74,4 @@ xlings 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:28:04Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:53:00Z._
