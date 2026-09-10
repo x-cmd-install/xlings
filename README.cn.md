@@ -12,6 +12,18 @@ Universal package infrastructure with OS-like SubOS isolation - Multi-version ·
 x install xlings
 ```
 
+## 代码规模
+
+合计: **92,422** 行代码（覆盖前 5 种语言、共 **337** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Cpp | 53,808 | 11,479 | 7,217 | 152 |
+| CppHeader | 18,119 | 4,526 | 3,067 | 1 |
+| Sh | 16,422 | 5,245 | 2,888 | 149 |
+| Python | 1,664 | 177 | 260 | 18 |
+| PowerShell | 1,601 | 401 | 293 | 17 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/d2learn/xlings>
@@ -23,19 +35,6 @@ x install xlings
 - **最新版本**: `v2026.9.5.1` (2026-09-06)
 - **最近提交**: 2026-09-06
 - **Release 含资产**: 8 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [xlings-2026.9.5.1-linux-aarch64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-aarch64.tar.gz) | 38.5 MiB | `native/linux/arm64` |
-| [xlings-2026.9.5.1-linux-aarch64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-aarch64.tar.gz.sha256) | 105 B | `native/linux/arm64` |
-| [xlings-2026.9.5.1-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-x86_64.tar.gz) | 39.1 MiB | `native/linux/x64` |
-| [xlings-2026.9.5.1-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-x86_64.tar.gz.sha256) | 104 B | `native/linux/x64` |
-| [xlings-2026.9.5.1-macosx-arm64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-macosx-arm64.tar.gz) | 7.1 MiB | `native/darwin/arm64` |
-| [xlings-2026.9.5.1-macosx-arm64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-macosx-arm64.tar.gz.sha256) | 104 B | `native/darwin/arm64` |
-| [xlings-2026.9.5.1-windows-x86_64.zip](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-windows-x86_64.zip) | 12.6 MiB | `native/win/x64` |
-| [xlings-2026.9.5.1-windows-x86_64.zip.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-windows-x86_64.zip.sha256) | 103 B | `native/win/x64` |
 
 ## 流行度
 
@@ -50,20 +49,24 @@ x install xlings
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 69 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 80 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 100 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 100 | 0 | 0 | 0 | 0 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **92,422** 行代码（覆盖前 5 种语言、共 **337** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Cpp | 53,808 | 11,479 | 7,217 | 152 |
-| CppHeader | 18,119 | 4,526 | 3,067 | 1 |
-| Sh | 16,422 | 5,245 | 2,888 | 149 |
-| Python | 1,664 | 177 | 260 | 18 |
-| PowerShell | 1,601 | 401 | 293 | 17 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [xlings-2026.9.5.1-linux-aarch64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-aarch64.tar.gz) | 38.5 MiB | `native/linux/arm64` |
+| [xlings-2026.9.5.1-linux-aarch64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-aarch64.tar.gz.sha256) | 105 B | `native/linux/arm64` |
+| [xlings-2026.9.5.1-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-x86_64.tar.gz) | 39.1 MiB | `native/linux/x64` |
+| [xlings-2026.9.5.1-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-linux-x86_64.tar.gz.sha256) | 104 B | `native/linux/x64` |
+| [xlings-2026.9.5.1-macosx-arm64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-macosx-arm64.tar.gz) | 7.1 MiB | `native/darwin/arm64` |
+| [xlings-2026.9.5.1-macosx-arm64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-macosx-arm64.tar.gz.sha256) | 104 B | `native/darwin/arm64` |
+| [xlings-2026.9.5.1-windows-x86_64.zip](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-windows-x86_64.zip) | 12.6 MiB | `native/win/x64` |
+| [xlings-2026.9.5.1-windows-x86_64.zip.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.5.1/xlings-2026.9.5.1-windows-x86_64.zip.sha256) | 103 B | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -74,4 +77,4 @@ xlings 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T15:53:00Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:14:52Z._
