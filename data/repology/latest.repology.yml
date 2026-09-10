@@ -1,0 +1,13 @@
+- repo: aur
+  srcname: xlings
+  binname: xlings
+  visiblename: xlings
+  version: 0.0.4
+  origversion: 0.0.4-1
+  status: unique
+  summary: A Developer's Toolkit for Programming Learning, Development, and Tutorial Creation
+  maintainers:
+    - sunrisepeak@aur
+    - moyingji@aur
+  licenses:
+    - Apache-2.0
