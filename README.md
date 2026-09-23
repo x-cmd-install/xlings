@@ -4,7 +4,7 @@
 
 Universal package infrastructure with OS-like SubOS isolation - Multi-version · Rootless · Decentralized Index · Agent-ready.
 
-[![x-cmd/install — xlings Code Quality Monitoring Repo Card](https://repo.x-cmd.io/xlings.svg)](https://x-cmd.com/install/xlings)
+[![x-cmd/install — xlings Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/xlings.svg)](https://x-cmd.com/install/xlings)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **98,339** lines of code across **359** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 607 · **Forks**: 49 · **Open issues**: 158 · **Contributors**: 10
+- **Stars**: 608 · **Forks**: 49 · **Open issues**: 158 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **98,339** lines of code across **359** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 17 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 67 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 77 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 67 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 76 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for xlings lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:40:57Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:37:11Z._
