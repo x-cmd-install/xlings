@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 41778423,
       "digest": "sha256:5d03e42c0cb691177515b7864ae56702b98be8f61a79cca7a1066c9486a19263",
-      "download_count": 12,
+      "download_count": 24,
       "created_at": "2026-09-20T12:54:53Z",
       "updated_at": "2026-09-20T12:54:55Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.9.20.1/xlings-2026.9.20.1-linux-aarch64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 42477223,
       "digest": "sha256:e9fc49d0c3ccf83f0e9835856bac28610ec5871da12c85980a49d0d78793514a",
-      "download_count": 89,
+      "download_count": 229,
       "created_at": "2026-09-20T12:54:53Z",
       "updated_at": "2026-09-20T12:54:55Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.9.20.1/xlings-2026.9.20.1-linux-x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:be9f985b39c3520afde1a395a7208faccc38d4170b3297132854b4162e78b594",
-      "download_count": 46,
+      "download_count": 70,
       "created_at": "2026-09-20T12:54:53Z",
       "updated_at": "2026-09-20T12:54:54Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.9.20.1/xlings-2026.9.20.1-linux-x86_64.tar.gz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7945715,
       "digest": "sha256:bbdb103838992c49dcfb9919aaac39f88f0c6385c2ce562d37cf364182a71272",
-      "download_count": 21,
+      "download_count": 71,
       "created_at": "2026-09-20T12:54:53Z",
       "updated_at": "2026-09-20T12:54:54Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.9.20.1/xlings-2026.9.20.1-macosx-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:26376cf0a30fef1800d2dc1a77d8deecb8ee06af6b28eb3917cf6813f8d18e06",
-      "download_count": 17,
+      "download_count": 23,
       "created_at": "2026-09-20T12:54:53Z",
       "updated_at": "2026-09-20T12:54:54Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.9.20.1/xlings-2026.9.20.1-macosx-arm64.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13822000,
       "digest": "sha256:0232d856f471367936800b2f096145ade2a7efd580ff6741d363177718aa7be3",
-      "download_count": 76,
+      "download_count": 159,
       "created_at": "2026-09-20T12:54:53Z",
       "updated_at": "2026-09-20T12:54:54Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.9.20.1/xlings-2026.9.20.1-windows-x86_64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:19c87756b39a372a8c8c033b512bf257e95473077d1d919a212ba1fd4b748541",
-      "download_count": 70,
+      "download_count": 90,
       "created_at": "2026-09-20T12:54:53Z",
       "updated_at": "2026-09-20T12:54:54Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.9.20.1/xlings-2026.9.20.1-windows-x86_64.zip.sha256"
