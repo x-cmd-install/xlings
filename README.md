@@ -14,15 +14,15 @@ x install xlings
 
 ## Code insight
 
-Total: **100,867** lines of code across **370** files in the top 5 languages.
+Total: **102,933** lines of code across **375** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 58,588 | 13,340 | 7,822 | 161 |
-| Sh | 19,704 | 6,550 | 3,411 | 171 |
+| Cpp | 59,947 | 13,628 | 7,975 | 162 |
+| Sh | 20,394 | 6,748 | 3,494 | 175 |
 | CppHeader | 18,119 | 4,526 | 3,067 | 1 |
-| PowerShell | 1,925 | 485 | 327 | 19 |
-| Python | 1,664 | 177 | 260 | 18 |
+| PowerShell | 1,942 | 493 | 327 | 19 |
+| Python | 1,664 | 179 | 260 | 18 |
 
 ## Source
 
@@ -32,41 +32,41 @@ Total: **100,867** lines of code across **370** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2026.9.26.3` (2026-09-26)
-- **Last commit**: 2026-09-27
+- **Latest**: `v2026.9.28.2` (2026-09-27)
+- **Last commit**: 2026-09-28
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 609 · **Forks**: 51 · **Open issues**: 162 · **Contributors**: 11
+- **Stars**: 609 · **Forks**: 51 · **Open issues**: 166 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 145 · **Merged PRs**: 416 · **Open PRs**: 3 · **Closed issues**: 137 · **Open issues**: 25 · **Commits**: 731
+- **Releases**: 148 · **Merged PRs**: 422 · **Open PRs**: 3 · **Closed issues**: 143 · **Open issues**: 23 · **Commits**: 737
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 60 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-29 | 77 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-31 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-02 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-07 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-29 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-30 | 60 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-30 | 80 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-01 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-03 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-08 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [xlings-2026.9.26.3-linux-aarch64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.26.3/xlings-2026.9.26.3-linux-aarch64.tar.gz) | 41.1 MiB | `native/linux/arm64` |
-| [xlings-2026.9.26.3-linux-aarch64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.26.3/xlings-2026.9.26.3-linux-aarch64.tar.gz.sha256) | 106 B | `native/linux/arm64` |
-| [xlings-2026.9.26.3-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.26.3/xlings-2026.9.26.3-linux-x86_64.tar.gz) | 41.7 MiB | `native/linux/x64` |
-| [xlings-2026.9.26.3-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.26.3/xlings-2026.9.26.3-linux-x86_64.tar.gz.sha256) | 105 B | `native/linux/x64` |
-| [xlings-2026.9.26.3-macosx-arm64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.26.3/xlings-2026.9.26.3-macosx-arm64.tar.gz) | 7.7 MiB | `native/darwin/arm64` |
-| [xlings-2026.9.26.3-macosx-arm64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.26.3/xlings-2026.9.26.3-macosx-arm64.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
-| [xlings-2026.9.26.3-windows-x86_64.zip](https://github.com/d2learn/xlings/releases/download/v2026.9.26.3/xlings-2026.9.26.3-windows-x86_64.zip) | 13.4 MiB | `native/win/x64` |
-| [xlings-2026.9.26.3-windows-x86_64.zip.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.26.3/xlings-2026.9.26.3-windows-x86_64.zip.sha256) | 104 B | `native/win/x64` |
+| [xlings-2026.9.28.2-linux-aarch64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.28.2/xlings-2026.9.28.2-linux-aarch64.tar.gz) | 41.6 MiB | `native/linux/arm64` |
+| [xlings-2026.9.28.2-linux-aarch64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.28.2/xlings-2026.9.28.2-linux-aarch64.tar.gz.sha256) | 106 B | `native/linux/arm64` |
+| [xlings-2026.9.28.2-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.28.2/xlings-2026.9.28.2-linux-x86_64.tar.gz) | 42.3 MiB | `native/linux/x64` |
+| [xlings-2026.9.28.2-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.28.2/xlings-2026.9.28.2-linux-x86_64.tar.gz.sha256) | 105 B | `native/linux/x64` |
+| [xlings-2026.9.28.2-macosx-arm64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.9.28.2/xlings-2026.9.28.2-macosx-arm64.tar.gz) | 7.8 MiB | `native/darwin/arm64` |
+| [xlings-2026.9.28.2-macosx-arm64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.28.2/xlings-2026.9.28.2-macosx-arm64.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
+| [xlings-2026.9.28.2-windows-x86_64.zip](https://github.com/d2learn/xlings/releases/download/v2026.9.28.2/xlings-2026.9.28.2-windows-x86_64.zip) | 13.5 MiB | `native/win/x64` |
+| [xlings-2026.9.28.2-windows-x86_64.zip.sha256](https://github.com/d2learn/xlings/releases/download/v2026.9.28.2/xlings-2026.9.28.2-windows-x86_64.zip.sha256) | 104 B | `native/win/x64` |
 
 ## Improve this data
 
@@ -77,4 +77,4 @@ Install metadata for xlings lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:11:22Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:12:48Z._
