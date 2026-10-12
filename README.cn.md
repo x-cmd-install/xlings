@@ -14,15 +14,15 @@ x install xlings
 
 ## 代码洞察
 
-合计: **143,927** 行代码（覆盖前 5 种语言、共 **572** 个文件）。
+合计: **146,947** 行代码（覆盖前 5 种语言、共 **585** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Cpp | 97,461 | 15,323 | 10,288 | 321 |
-| Sh | 22,830 | 7,468 | 3,725 | 210 |
+| Cpp | 100,006 | 15,655 | 10,477 | 328 |
+| Sh | 23,096 | 7,572 | 3,733 | 216 |
 | CppHeader | 18,183 | 4,552 | 3,077 | 3 |
-| PowerShell | 2,004 | 512 | 334 | 19 |
-| Python | 1,713 | 181 | 265 | 19 |
+| PowerShell | 2,006 | 515 | 334 | 19 |
+| Python | 1,854 | 185 | 295 | 19 |
 
 ## 源代码
 
@@ -32,41 +32,41 @@ x install xlings
 
 ## 发布
 
-- **最新版本**: `v2026.10.11.2` (2026-10-11)
-- **最近提交**: 2026-10-11
+- **最新版本**: `v2026.10.12.2` (2026-10-12)
+- **最近提交**: 2026-10-12
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 615 · **Fork**: 51 · **开放 issue**: 171 · **贡献者**: 11
+- **Star**: 615 · **Fork**: 51 · **开放 issue**: 172 · **贡献者**: 11
 
 ## 累计统计
 
-- **发布数**: 158 · **已合并 PR**: 438 · **开放 PR**: 0 · **已关闭 issue**: 143 · **开放 issue**: 28 · **提交数**: 753
+- **发布数**: 160 · **已合并 PR**: 440 · **开放 PR**: 0 · **已关闭 issue**: 143 · **开放 issue**: 29 · **提交数**: 755
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 20 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-12 | 41 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-13 | 87 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-14 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-16 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-21 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-12 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-13 | 43 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-14 | 89 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-15 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-17 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-22 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [xlings-2026.10.11.2-linux-aarch64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.10.11.2/xlings-2026.10.11.2-linux-aarch64.tar.gz) | 12.0 MiB | `native/linux/arm64` |
-| [xlings-2026.10.11.2-linux-aarch64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.10.11.2/xlings-2026.10.11.2-linux-aarch64.tar.gz.sha256) | 107 B | `native/linux/arm64` |
-| [xlings-2026.10.11.2-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.10.11.2/xlings-2026.10.11.2-linux-x86_64.tar.gz) | 13.8 MiB | `native/linux/x64` |
-| [xlings-2026.10.11.2-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.10.11.2/xlings-2026.10.11.2-linux-x86_64.tar.gz.sha256) | 106 B | `native/linux/x64` |
-| [xlings-2026.10.11.2-macosx-arm64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.10.11.2/xlings-2026.10.11.2-macosx-arm64.tar.gz) | 7.6 MiB | `native/darwin/arm64` |
-| [xlings-2026.10.11.2-macosx-arm64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.10.11.2/xlings-2026.10.11.2-macosx-arm64.tar.gz.sha256) | 106 B | `native/darwin/arm64` |
-| [xlings-2026.10.11.2-windows-x86_64.zip](https://github.com/d2learn/xlings/releases/download/v2026.10.11.2/xlings-2026.10.11.2-windows-x86_64.zip) | 19.7 MiB | `native/win/x64` |
-| [xlings-2026.10.11.2-windows-x86_64.zip.sha256](https://github.com/d2learn/xlings/releases/download/v2026.10.11.2/xlings-2026.10.11.2-windows-x86_64.zip.sha256) | 105 B | `native/win/x64` |
+| [xlings-2026.10.12.2-linux-aarch64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.10.12.2/xlings-2026.10.12.2-linux-aarch64.tar.gz) | 12.2 MiB | `native/linux/arm64` |
+| [xlings-2026.10.12.2-linux-aarch64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.10.12.2/xlings-2026.10.12.2-linux-aarch64.tar.gz.sha256) | 107 B | `native/linux/arm64` |
+| [xlings-2026.10.12.2-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.10.12.2/xlings-2026.10.12.2-linux-x86_64.tar.gz) | 14.0 MiB | `native/linux/x64` |
+| [xlings-2026.10.12.2-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.10.12.2/xlings-2026.10.12.2-linux-x86_64.tar.gz.sha256) | 106 B | `native/linux/x64` |
+| [xlings-2026.10.12.2-macosx-arm64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.10.12.2/xlings-2026.10.12.2-macosx-arm64.tar.gz) | 7.7 MiB | `native/darwin/arm64` |
+| [xlings-2026.10.12.2-macosx-arm64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.10.12.2/xlings-2026.10.12.2-macosx-arm64.tar.gz.sha256) | 106 B | `native/darwin/arm64` |
+| [xlings-2026.10.12.2-windows-x86_64.zip](https://github.com/d2learn/xlings/releases/download/v2026.10.12.2/xlings-2026.10.12.2-windows-x86_64.zip) | 20.1 MiB | `native/win/x64` |
+| [xlings-2026.10.12.2-windows-x86_64.zip.sha256](https://github.com/d2learn/xlings/releases/download/v2026.10.12.2/xlings-2026.10.12.2-windows-x86_64.zip.sha256) | 105 B | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -77,4 +77,4 @@ xlings 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261011.yml` · 2026-10-11T05:35:20Z._
+_数据快照: `data/card/261012.yml` · 2026-10-12T05:45:54Z._
