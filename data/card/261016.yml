@@ -1,0 +1,165 @@
+about:
+  description: "Universal package infrastructure with OS-like SubOS isolation - Multi-version · Rootless · Decentralized Index · Agent-ready."
+  license: Apache-2.0
+  homepage: https://index.xlings.org
+  head: 136f9c8
+  archived: false
+  latestVersion: "v2026.10.15.4"
+  latestRelease: "v2026.10.15.4"
+  latestPrerelease: ""
+  collectedAt: 2026-10-16T04:21:37Z
+timeline:
+  created: 2024-08-19
+  lastCommit: 2026-10-15
+  lastVersion: 2026-10-15
+  lastRelease: 2026-10-15
+  lastPrerelease: 
+popularity:
+  star: 613
+  watcher: 3
+  fork: 51
+  release: 169
+  contributor: 11
+  pullRequest: 494
+  issue: 173
+language:
+  C++: 8908704
+  Shell: 1635892
+  Python: 223634
+  PowerShell: 134818
+  Lua: 23171
+  C: 22617
+totalBytes: 10948836
+recent:
+  last30d:
+    since: 2026-09-16
+    release: 29
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-08-17
+    release: 48
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-07-18
+    release: 96
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-04-19
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-10-21
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-10-26
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 169
+  mergedPR: 452
+  openPR: 2
+  closedIssue: 143
+  openIssue: 30
+  commit: 767
+---
+path: /home/runner/.x-repo/github.com/d2learn/xlings
+collectedAt: 2026-10-16T04:21:41Z
+loc:
+  Cpp:
+    code: 119739
+    comments: 16896
+    blanks: 11802
+    files: 401
+  Sh:
+    code: 23999
+    comments: 7819
+    blanks: 3807
+    files: 227
+  CppHeader:
+    code: 18183
+    comments: 4552
+    blanks: 3077
+    files: 3
+  PowerShell:
+    code: 2174
+    comments: 553
+    blanks: 347
+    files: 21
+  Python:
+    code: 2064
+    comments: 189
+    blanks: 318
+    files: 22
+  Toml:
+    code: 1368
+    comments: 481
+    blanks: 400
+    files: 34
+  Lua:
+    code: 554
+    comments: 52
+    blanks: 48
+    files: 18
+  C:
+    code: 94
+    comments: 33
+    blanks: 16
+    files: 1
+  JavaScript:
+    code: 91
+    comments: 17
+    blanks: 10
+    files: 1
+  Json:
+    code: 80
+    comments: 0
+    blanks: 6
+    files: 3
+  Ini:
+    code: 22
+    comments: 12
+    blanks: 6
+    files: 2
+  Svg:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 6621
+    blanks: 2523
+    files: 97
+total:
+  code: 169640
+  comments: 37242
+  blanks: 22383
+  files: 831
+---
+
+---
