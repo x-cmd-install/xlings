@@ -38,7 +38,7 @@ Total: **197,117** lines of code across **856** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 616 · **Forks**: 49 · **Open issues**: 180 · **Contributors**: 11
+- **Stars**: 616 · **Forks**: 48 · **Open issues**: 180 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **197,117** lines of code across **856** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 33 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-12 | 54 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-13 | 75 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-15 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-16 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-21 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-13 | 31 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-13 | 53 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-14 | 73 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-16 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-17 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-22 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for xlings lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T05:55:53Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T06:59:42Z._
