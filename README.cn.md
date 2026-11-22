@@ -14,15 +14,15 @@ x install xlings
 
 ## 代码洞察
 
-合计: **199,607** 行代码（覆盖前 5 种语言、共 **864** 个文件）。
+合计: **200,760** 行代码（覆盖前 5 种语言、共 **868** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Cpp | 163,962 | 21,446 | 14,638 | 548 |
-| Sh | 24,715 | 7,997 | 3,865 | 235 |
+| Cpp | 164,929 | 21,583 | 14,713 | 551 |
+| Sh | 24,786 | 8,018 | 3,870 | 236 |
 | Json | 2,660 | 0 | 6 | 33 |
 | Python | 2,592 | 200 | 398 | 27 |
-| PowerShell | 2,238 | 575 | 350 | 21 |
+| PowerShell | 2,341 | 599 | 356 | 21 |
 
 ## 源代码
 
@@ -32,59 +32,59 @@ x install xlings
 
 ## 发布
 
-- **最新版本**: `v2026.11.21.1` (2026-11-21)
-- **最近提交**: 2026-11-21
+- **最新版本**: `v2026.11.22.1` (2026-11-21)
+- **最近提交**: 2026-11-22
 - **Release 含资产**: 26 个
 
 ## 流行度
 
-- **Star**: 617 · **Fork**: 48 · **开放 issue**: 182 · **贡献者**: 11
+- **Star**: 617 · **Fork**: 49 · **开放 issue**: 185 · **贡献者**: 11
 
 ## 累计统计
 
-- **发布数**: 196 · **已合并 PR**: 488 · **开放 PR**: 1 · **已关闭 issue**: 147 · **开放 issue**: 35 · **提交数**: 803
+- **发布数**: 197 · **已合并 PR**: 493 · **开放 PR**: 2 · **已关闭 issue**: 148 · **开放 issue**: 37 · **提交数**: 808
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-22 | 54 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-23 | 71 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-25 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-26 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-01 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-23 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-23 | 55 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-24 | 72 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-26 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-02 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [luban-2026.11.21.1-linux-aarch64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-2026.11.21.1-linux-aarch64.tar.gz) | 3.6 MiB | `native/linux/arm64` |
-| [luban-2026.11.21.1-linux-aarch64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-2026.11.21.1-linux-aarch64.tar.gz.sha256) | 106 B | `native/linux/arm64` |
-| [luban-2026.11.21.1-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-2026.11.21.1-linux-x86_64.tar.gz) | 4.3 MiB | `native/linux/x64` |
-| [luban-2026.11.21.1-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-2026.11.21.1-linux-x86_64.tar.gz.sha256) | 105 B | `native/linux/x64` |
-| [luban-2026.11.21.1-macosx-arm64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-2026.11.21.1-macosx-arm64.tar.gz) | 2.8 MiB | `native/darwin/arm64` |
-| [luban-2026.11.21.1-macosx-arm64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-2026.11.21.1-macosx-arm64.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
-| [luban-2026.11.21.1-windows-x86_64.zip](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-2026.11.21.1-windows-x86_64.zip) | 2.8 MiB | `native/win/x64` |
-| [luban-2026.11.21.1-windows-x86_64.zip.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-2026.11.21.1-windows-x86_64.zip.sha256) | 104 B | `native/win/x64` |
-| [luban-cursors-2026.11.21.1.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-cursors-2026.11.21.1.tar.gz) | 54.5 KiB | `native/unknown` |
-| [luban-cursors-2026.11.21.1.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-cursors-2026.11.21.1.tar.gz.sha256) | 100 B | `other` |
-| [luban-os-2026.11.21.1-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-os-2026.11.21.1-linux-x86_64.tar.gz) | 6.5 MiB | `native/linux/x64` |
-| [luban-os-2026.11.21.1-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-os-2026.11.21.1-linux-x86_64.tar.gz.sha256) | 108 B | `native/linux/x64` |
-| [luban-os-2026.11.21.1-macosx-arm64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-os-2026.11.21.1-macosx-arm64.tar.gz) | 4.2 MiB | `native/darwin/arm64` |
-| [luban-os-2026.11.21.1-macosx-arm64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-os-2026.11.21.1-macosx-arm64.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
-| [luban-os-2026.11.21.1-windows-x86_64.zip](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-os-2026.11.21.1-windows-x86_64.zip) | 4.8 MiB | `native/win/x64` |
-| [luban-os-2026.11.21.1-windows-x86_64.zip.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/luban-os-2026.11.21.1-windows-x86_64.zip.sha256) | 107 B | `native/win/x64` |
-| [xdesk-2026.11.21.1-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/xdesk-2026.11.21.1-linux-x86_64.tar.gz) | 12.9 MiB | `native/linux/x64` |
-| [xdesk-2026.11.21.1-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/xdesk-2026.11.21.1-linux-x86_64.tar.gz.sha256) | 105 B | `native/linux/x64` |
-| [xlings-2026.11.21.1-linux-aarch64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/xlings-2026.11.21.1-linux-aarch64.tar.gz) | 17.5 MiB | `native/linux/arm64` |
-| [xlings-2026.11.21.1-linux-aarch64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/xlings-2026.11.21.1-linux-aarch64.tar.gz.sha256) | 107 B | `native/linux/arm64` |
-| [xlings-2026.11.21.1-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/xlings-2026.11.21.1-linux-x86_64.tar.gz) | 20.4 MiB | `native/linux/x64` |
-| [xlings-2026.11.21.1-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/xlings-2026.11.21.1-linux-x86_64.tar.gz.sha256) | 106 B | `native/linux/x64` |
-| [xlings-2026.11.21.1-macosx-arm64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/xlings-2026.11.21.1-macosx-arm64.tar.gz) | 10.6 MiB | `native/darwin/arm64` |
-| [xlings-2026.11.21.1-macosx-arm64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/xlings-2026.11.21.1-macosx-arm64.tar.gz.sha256) | 106 B | `native/darwin/arm64` |
-| [xlings-2026.11.21.1-windows-x86_64.zip](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/xlings-2026.11.21.1-windows-x86_64.zip) | 24.5 MiB | `native/win/x64` |
-| [xlings-2026.11.21.1-windows-x86_64.zip.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.21.1/xlings-2026.11.21.1-windows-x86_64.zip.sha256) | 105 B | `native/win/x64` |
+| [luban-2026.11.22.1-linux-aarch64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-2026.11.22.1-linux-aarch64.tar.gz) | 3.6 MiB | `native/linux/arm64` |
+| [luban-2026.11.22.1-linux-aarch64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-2026.11.22.1-linux-aarch64.tar.gz.sha256) | 106 B | `native/linux/arm64` |
+| [luban-2026.11.22.1-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-2026.11.22.1-linux-x86_64.tar.gz) | 4.3 MiB | `native/linux/x64` |
+| [luban-2026.11.22.1-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-2026.11.22.1-linux-x86_64.tar.gz.sha256) | 105 B | `native/linux/x64` |
+| [luban-2026.11.22.1-macosx-arm64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-2026.11.22.1-macosx-arm64.tar.gz) | 2.8 MiB | `native/darwin/arm64` |
+| [luban-2026.11.22.1-macosx-arm64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-2026.11.22.1-macosx-arm64.tar.gz.sha256) | 105 B | `native/darwin/arm64` |
+| [luban-2026.11.22.1-windows-x86_64.zip](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-2026.11.22.1-windows-x86_64.zip) | 2.8 MiB | `native/win/x64` |
+| [luban-2026.11.22.1-windows-x86_64.zip.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-2026.11.22.1-windows-x86_64.zip.sha256) | 104 B | `native/win/x64` |
+| [luban-cursors-2026.11.22.1.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-cursors-2026.11.22.1.tar.gz) | 54.3 KiB | `native/unknown` |
+| [luban-cursors-2026.11.22.1.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-cursors-2026.11.22.1.tar.gz.sha256) | 100 B | `other` |
+| [luban-os-2026.11.22.1-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-os-2026.11.22.1-linux-x86_64.tar.gz) | 6.6 MiB | `native/linux/x64` |
+| [luban-os-2026.11.22.1-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-os-2026.11.22.1-linux-x86_64.tar.gz.sha256) | 108 B | `native/linux/x64` |
+| [luban-os-2026.11.22.1-macosx-arm64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-os-2026.11.22.1-macosx-arm64.tar.gz) | 4.2 MiB | `native/darwin/arm64` |
+| [luban-os-2026.11.22.1-macosx-arm64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-os-2026.11.22.1-macosx-arm64.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
+| [luban-os-2026.11.22.1-windows-x86_64.zip](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-os-2026.11.22.1-windows-x86_64.zip) | 4.8 MiB | `native/win/x64` |
+| [luban-os-2026.11.22.1-windows-x86_64.zip.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/luban-os-2026.11.22.1-windows-x86_64.zip.sha256) | 107 B | `native/win/x64` |
+| [xdesk-2026.11.22.1-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/xdesk-2026.11.22.1-linux-x86_64.tar.gz) | 12.9 MiB | `native/linux/x64` |
+| [xdesk-2026.11.22.1-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/xdesk-2026.11.22.1-linux-x86_64.tar.gz.sha256) | 105 B | `native/linux/x64` |
+| [xlings-2026.11.22.1-linux-aarch64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/xlings-2026.11.22.1-linux-aarch64.tar.gz) | 17.6 MiB | `native/linux/arm64` |
+| [xlings-2026.11.22.1-linux-aarch64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/xlings-2026.11.22.1-linux-aarch64.tar.gz.sha256) | 107 B | `native/linux/arm64` |
+| [xlings-2026.11.22.1-linux-x86_64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/xlings-2026.11.22.1-linux-x86_64.tar.gz) | 20.5 MiB | `native/linux/x64` |
+| [xlings-2026.11.22.1-linux-x86_64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/xlings-2026.11.22.1-linux-x86_64.tar.gz.sha256) | 106 B | `native/linux/x64` |
+| [xlings-2026.11.22.1-macosx-arm64.tar.gz](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/xlings-2026.11.22.1-macosx-arm64.tar.gz) | 10.7 MiB | `native/darwin/arm64` |
+| [xlings-2026.11.22.1-macosx-arm64.tar.gz.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/xlings-2026.11.22.1-macosx-arm64.tar.gz.sha256) | 106 B | `native/darwin/arm64` |
+| [xlings-2026.11.22.1-windows-x86_64.zip](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/xlings-2026.11.22.1-windows-x86_64.zip) | 24.6 MiB | `native/win/x64` |
+| [xlings-2026.11.22.1-windows-x86_64.zip.sha256](https://github.com/d2learn/xlings/releases/download/v2026.11.22.1/xlings-2026.11.22.1-windows-x86_64.zip.sha256) | 105 B | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -95,4 +95,4 @@ xlings 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T06:56:02Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T06:30:27Z._
