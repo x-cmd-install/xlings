@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 6922029,
       "digest": "sha256:fe6c78fc9d4dd6eeaa0107a7bdb3f698a2d111fce442e947f3ece3cdcc6bb257",
-      "download_count": 24,
+      "download_count": 41,
       "created_at": "2026-11-22T22:16:57Z",
       "updated_at": "2026-11-22T22:16:58Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.11.23.1/luban-os-2026.11.23.1-linux-x86_64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 13496252,
       "digest": "sha256:14533111727983ec9375e569705b2e484bb131acd684a22c94cc6134cc430f4b",
-      "download_count": 24,
+      "download_count": 41,
       "created_at": "2026-11-22T22:16:57Z",
       "updated_at": "2026-11-22T22:16:58Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.11.23.1/xdesk-2026.11.23.1-linux-x86_64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 18536129,
       "digest": "sha256:d45caa93b86ebf50ea31bb5c38e0457ad5a3376dadd63dc608e8e96b7183d40a",
-      "download_count": 169,
+      "download_count": 225,
       "created_at": "2026-11-22T22:16:57Z",
       "updated_at": "2026-11-22T22:16:58Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.11.23.1/xlings-2026.11.23.1-linux-aarch64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:76f599d04ce4c44593d47fd9b34979f325e0a7655724cbed1607698f9f2ede4c",
-      "download_count": 78,
+      "download_count": 119,
       "created_at": "2026-11-22T22:16:57Z",
       "updated_at": "2026-11-22T22:16:58Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.11.23.1/xlings-2026.11.23.1-linux-aarch64.tar.gz.sha256"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 21603385,
       "digest": "sha256:a0b348ab235e6a48012b133a72498461ad5ea08d09330cb3ee7663383e03b4e5",
-      "download_count": 1291,
+      "download_count": 1948,
       "created_at": "2026-11-22T22:16:57Z",
       "updated_at": "2026-11-22T22:16:58Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.11.23.1/xlings-2026.11.23.1-linux-x86_64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:bdfef904a71c5a8511bd698b0722f117be9d4327a2964c7a47e3ccb8e1dd087c",
-      "download_count": 913,
+      "download_count": 1523,
       "created_at": "2026-11-22T22:16:57Z",
       "updated_at": "2026-11-22T22:16:58Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.11.23.1/xlings-2026.11.23.1-linux-x86_64.tar.gz.sha256"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 11232559,
       "digest": "sha256:f1ec397285cd9e7327a6ca1b25aa2d92afe0d708adc0570e5b0e29bed0b6ee78",
-      "download_count": 503,
+      "download_count": 758,
       "created_at": "2026-11-22T22:16:57Z",
       "updated_at": "2026-11-22T22:16:58Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.11.23.1/xlings-2026.11.23.1-macosx-arm64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:db287a10e830c76fe6667791e7a387837610a79ea700029d48a4d4bffb99b1c1",
-      "download_count": 328,
+      "download_count": 556,
       "created_at": "2026-11-22T22:16:57Z",
       "updated_at": "2026-11-22T22:16:58Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.11.23.1/xlings-2026.11.23.1-macosx-arm64.tar.gz.sha256"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 25951621,
       "digest": "sha256:38dbcef5ed1ce8e4ba860bbfe6d0ce8ad8e49dfadbc90e38009447682bafd0d1",
-      "download_count": 576,
+      "download_count": 844,
       "created_at": "2026-11-22T22:16:57Z",
       "updated_at": "2026-11-22T22:16:58Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.11.23.1/xlings-2026.11.23.1-windows-x86_64.zip"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:74d5f152f1b81283a838ed55a5086ee66bb135e83e1080acdf2aa08e4ccd3fb7",
-      "download_count": 384,
+      "download_count": 636,
       "created_at": "2026-11-22T22:16:57Z",
       "updated_at": "2026-11-22T22:16:57Z",
       "browser_download_url": "https://github.com/openxlings/xlings/releases/download/v2026.11.23.1/xlings-2026.11.23.1-windows-x86_64.zip.sha256"
